@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Working on:
+- Thesis on RKHS and the Koopman operator
+- Manim
+
 <!--
 **UpzYaDead/UpzYaDead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
