@@ -3,6 +3,7 @@
 Working on:
 - Thesis on RKHS and the Koopman operator
 - Manim
+- Wrapping up AOC 2020
 
 <!--
 **UpzYaDead/UpzYaDead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
