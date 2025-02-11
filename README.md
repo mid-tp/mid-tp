@@ -1,11 +1,8 @@
 ## Hi there 👋
-
-Working on:
-- Thesis on RKHS and the Koopman operator
+- Open to work!
 - Manim
-- Just finished AoC 2020
-- Ready for AoC 2024 😄
-
+- Almost finished Advent of Code 2024 😄
+- Thesis on RKHS and the Koopman operator
 <!--
 **UpzYaDead/UpzYaDead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
