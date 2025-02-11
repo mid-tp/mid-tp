@@ -4,7 +4,7 @@ I just finished my Data Science master in Applied Mathematics, with a thesis on 
 
 In my free time, I devote time to:
 - Learning C++
-- Logic puzzles, for example [Jane Street](https://www.janestreet.com/puzzles/archive/) or [Advent of Code](https://adventofcode.com/)
+- Logic/Coding puzzles, for example [Jane Street](https://www.janestreet.com/puzzles/archive/) or [Advent of Code](https://adventofcode.com/)
 - [Solutions](https://github.com/UpzYaDead/jane_street_puzzles) to some Jane Street puzzles
 - Solutions to [AoC 2024](https://github.com/UpzYaDead/AOC_2024)
 - Solutions to [AoC 2020](https://github.com/UpzYaDead/AOC2020)
