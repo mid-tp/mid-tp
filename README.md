@@ -1,8 +1,8 @@
 <h1 align="center">Hello! 👋 I'm Thomas</h1>
 <h3 align="center">Currently, I am looking for a Data Science position. </h3>
-<h4 align="center">I just finished my Data Science master in Applied Mathematics, with a <a> href="https://essay.utwente.nl/104793/" thesis </a>
+<h4 align="center">I just finished my Data Science master in Applied Mathematics, with a 
  on the Reproducing kernel Hilbert spaces and the Koopman operator. </h4>
-
+<a> href="https://essay.utwente.nl/104793/" thesis </a>
 
 - **🔭 I’m currently working on**
   - A small web app to visualize hockey club data in the Netherlands. Using Flask, HTML, CSS and webscraping with Beautifoulsoup.
