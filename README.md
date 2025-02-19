@@ -27,7 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=upzyadead&show_icons=true&locale=en" alt="upzyadead" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upzyadead&" alt="upzyadead" /></p>
 
 
 
