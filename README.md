@@ -2,22 +2,22 @@
 <h3 align="center">Currently, I am looking for a Data Science position. </h3>
 <h4 align="center">I just finished my Data Science master in Applied Mathematics, with a <a href="https://essay.utwente.nl/104793/"> thesis </a>
  on the Reproducing kernel Hilbert spaces and the Koopman operator. </h4>
-
+---
 
 - **🔭 I’m currently working on**
   - A small web app to visualize hockey club data in the Netherlands. Using Flask, HTML, CSS and webscraping with Beautifoulsoup.
   - Logic/Coding puzzles, for example [Jane Street](https://www.janestreet.com/puzzles/archive/), [Advent of Code](https://adventofcode.com/) or [Project Euler](https://projecteuler.net/).
-
+---
 - **🌱 I’m currently learning**
   - C++.
   - Web dev (Flask, html, css, jinja templates).
-
+---
 - **Past projects**
   - [Solutions](https://github.com/UpzYaDead/jane_street_puzzles) to some Jane Street puzzles.
   - Solutions to [AoC 2024](https://github.com/mid-tp/AOC_2024).
   - Solutions to [AoC 2020](https://github.com/mid-tp/AOC2020).
   - Solutions to [Project Euler](https://github.com/mid-tp/project_Euler).
-
+---
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,7 +29,7 @@
  <p style="display: flex; align-items: center;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=upzyadead&show_icons=true&locale=en&layout=compact" alt="mid-tp" /></p> 
 
 </div>
-
+---
 
 
 
