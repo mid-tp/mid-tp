@@ -12,7 +12,7 @@
   - C++
   - Web dev (Flask, html, css, jinja templates)
 
-- **Some past projects**
+- **Past projects**
   - [Solutions](https://github.com/UpzYaDead/jane_street_puzzles) to some Jane Street puzzles
   - Solutions to [AoC 2024](https://github.com/UpzYaDead/AOC_2024)
   - Solutions to [AoC 2020](https://github.com/UpzYaDead/AOC2020)
