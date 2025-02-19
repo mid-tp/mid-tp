@@ -6,7 +6,7 @@
 
 - **🔭 I’m currently working on**
   - A small web app to visualize hockey club data in the Netherlands. Using Flask, HTML, CSS and webscraping with Beautifoulsoup.
-  - Logic/Coding puzzles, for example [Jane Street](https://www.janestreet.com/puzzles/archive/), [Advent of Code](https://adventofcode.com/) or [Project Euler](https://projecteuler.net/)
+  - Logic/Coding puzzles, for example [Jane Street](https://www.janestreet.com/puzzles/archive/), [Advent of Code](https://adventofcode.com/) or [Project Euler](https://projecteuler.net/).
 
 - **🌱 I’m currently learning**
   - C++
