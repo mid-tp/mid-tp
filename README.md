@@ -9,13 +9,14 @@
   - Logic/Coding puzzles, for example [Jane Street](https://www.janestreet.com/puzzles/archive/), [Advent of Code](https://adventofcode.com/) or [Project Euler](https://projecteuler.net/).
 
 - **🌱 I’m currently learning**
-  - C++
-  - Web dev (Flask, html, css, jinja templates)
+  - C++.
+  - Web dev (Flask, html, css, jinja templates).
 
 - **Past projects**
-  - [Solutions](https://github.com/UpzYaDead/jane_street_puzzles) to some Jane Street puzzles
-  - Solutions to [AoC 2024](https://github.com/UpzYaDead/AOC_2024)
-  - Solutions to [AoC 2020](https://github.com/UpzYaDead/AOC2020)
+  - [Solutions](https://github.com/UpzYaDead/jane_street_puzzles) to some Jane Street puzzles.
+  - Solutions to [AoC 2024](https://github.com/mid-tp/AOC_2024).
+  - Solutions to [AoC 2020](https://github.com/mid-tp/AOC2020).
+  - Solutions to [Project Euler](https://github.com/mid-tp/project_Euler).
 
 
 
