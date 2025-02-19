@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋 I'm Thomas</h1>
-<h3 align="center">Currently, I am looking for a Data Science position. I just finished my Data Science master in Applied Mathematics, with a thesis on the Reproducing kernel Hilbert spaces and the Koopman operator.</h3>
-
+<h3 align="center">Currently, I am looking for a Data Science position. </h3>
+<h2 align="center">I just finished my Data Science master in Applied Mathematics, with a [thesis](https://essay.utwente.nl/104793/) on the Reproducing kernel Hilbert spaces and the Koopman operator. </h2>
 - **🔭 I’m currently working on**
   - A small web app to visualize hockey club data in the Netherlands. Using Flask, HTML, CSS and webscraping with Beautifoulsoup.
   - Logic/Coding puzzles, for example [Jane Street](https://www.janestreet.com/puzzles/archive/), [Advent of Code](https://adventofcode.com/) or [Project Euler](https://projecteuler.net/)
