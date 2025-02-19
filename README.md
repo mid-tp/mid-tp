@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">Currently, I am looking for a Data Science position. I just finished my Data Science master in Applied Mathematics, with a thesis on the Reproducing kernel Hilbert spaces and the Koopman operator.</h3>
 
-- 🔭 I’m currently working on
-  - **A small web app to visualize hockey club data in the Netherlands. Using Flask, HTML, CSS and webscraping with Beautifoulsoup.**
-  
-- 🌱 I’m currently learning
-  - **C++**
+- **🔭 I’m currently working on**
+  - A small web app to visualize hockey club data in the Netherlands. Using Flask, HTML, CSS and webscraping with Beautifoulsoup.
+  - Logic/Coding puzzles, for example [Jane Street](https://www.janestreet.com/puzzles/archive/), [Advent of Code](https://adventofcode.com/) or [Project Euler](https://projecteuler.net/)
 
+- **🌱 I’m currently learning**
+  - C++
+  - Web dev (Flask, html, css, jinja templates)
 
-- In my free time, I devote time to:
-  - 
-  - Logic/Coding puzzles, for example [Jane Street](https://www.janestreet.com/puzzles/archive/) or [Advent of Code](https://adventofcode.com/)
+- **Some past projects**
   - [Solutions](https://github.com/UpzYaDead/jane_street_puzzles) to some Jane Street puzzles
   - Solutions to [AoC 2024](https://github.com/UpzYaDead/AOC_2024)
   - Solutions to [AoC 2020](https://github.com/UpzYaDead/AOC2020)
-  - I have some work done in [Manim](https://www.manim.community/), the software that [3B1B](https://www.youtube.com/@3blue1brown/videos) uses to animate his videos. Since this work was done in a university, I am not allowed to publish the code or the videos.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
