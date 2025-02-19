@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thomas</h1>
+<h1 align="center">Hello! 👋 I'm Thomas</h1>
 <h3 align="center">Currently, I am looking for a Data Science position. I just finished my Data Science master in Applied Mathematics, with a thesis on the Reproducing kernel Hilbert spaces and the Koopman operator.</h3>
 
 - **🔭 I’m currently working on**
