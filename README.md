@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">Currently, I am looking for a Data Science position. I just finished my Data Science master in Applied Mathematics, with a thesis on the Reproducing kernel Hilbert spaces and the Koopman operator.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=upzyadead" alt="upzyadead" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **A small web app to visualize hockey club data in the Netherlands. Using Flask, HTML, CSS and webscraping with Beautifoulsoup.**
