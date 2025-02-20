@@ -3,7 +3,7 @@
 
 <h3 align="center">Currently, I am looking for a Data Science position. </h3>
 <h4 align="center">I just finished my Data Science master in Applied Mathematics, with a <a href="https://essay.utwente.nl/104793/"> thesis </a>
- on the Reproducing kernel Hilbert spaces and the Koopman operator. </h4>
+ on the approximation of discrete dynamical systems in Reproducing kernel Hilbert spaces through the Koopman operator. </h4>
  
 ---
 
