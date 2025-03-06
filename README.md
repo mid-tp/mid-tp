@@ -15,7 +15,7 @@
   - C++.
   - Web dev (Flask, html, css, jinja templates).
 
-- **Past projects**
+- **Projects**
   - [Solutions](https://github.com/UpzYaDead/jane_street_puzzles) to some Jane Street puzzles.
   - Solutions to [AoC 2024](https://github.com/mid-tp/AOC_2024).
   - Solutions to [AoC 2020](https://github.com/mid-tp/AOC2020).
